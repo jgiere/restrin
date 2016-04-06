@@ -1,0 +1,29 @@
+{
+  "name": "restrin",
+  "version": "0.0.1",
+  "description": "Remove a substring from any file name in the given root directory and subdirectories.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgiere/restrin.git"
+  },
+  "keywords": [
+    "rename",
+    "string",
+    "remove",
+    "substring",
+    "root",
+    "directory",
+    "subdirectory",
+    "subdirectories"
+  ],
+  "author": "Johannes Giere <johannes@jgiere.de>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jgiere/restrin/issues"
+  },
+  "homepage": "https://github.com/jgiere/restrin#readme"
+}
